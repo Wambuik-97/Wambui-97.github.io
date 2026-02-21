@@ -60,7 +60,8 @@ plugins:
 author:
   name   : "Jane Kamondo"
   avatar : ""C:\Users\Administrator\Downloads\my photo.jpg""
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Jane Wambui Kamondo is a Customer Experience and Data Analytics Specialist with expertise in transforming Voice of the Customer insights into measurable business improvements. She leverages Lean Six Sigma methodologies and Power BI analytics to optimize processes, enhance NPS and CSAT performance and drive data-informed operational excellence.
+"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -70,10 +71,10 @@ author:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/Wambuik-97/Wambui-97.github.io/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "instagram.com/wambuikam/"
 
 footer:
   links:
@@ -82,10 +83,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/Wambuik-97/Wambui-97.github.io/"
+    - label: "Wambui Kamondo"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "instagram.com/wambuikam/"
 
 defaults:
   # _posts
