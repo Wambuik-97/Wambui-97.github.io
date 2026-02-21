@@ -1,9 +1,13 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
+  - title: "Customer Experience"
+    url: /customer-experience/
+  - title: "Data Analytics"
+    url: /data-analytics/
+  - title: "Process Improvement"
+    url: /process-improvement/
+  - title: "Projects & Impact"
+    url: /projects/
+  - title: "About Jane"
     url: /about/
+  - title: "Contact"
+    url: /contact/
