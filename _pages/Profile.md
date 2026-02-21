@@ -13,4 +13,3 @@ With over 2 years of experience in customer experience management, analytics, an
 My work sits at the intersection of:
 
 ---
-
