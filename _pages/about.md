@@ -1,8 +1,4 @@
 ---
-permalink: /about/
-title: "About"
----
----
 layout: single
 title: "About Jane"
 permalink: /about/
@@ -36,28 +32,4 @@ My work sits at the intersection of:
 
 ---
 
-## My Approach
 
-I believe customer experience should not operate in isolation. It should inform product design, operational strategy, and business growth.
-
-By combining analytics with structured process improvement methodologies, I focus on delivering:
-
-- Measurable impact  
-- Operational efficiency  
-- Sustainable service excellence  
-- Data-driven decision making  
-
----
-
-## Career Highlights
-
-- 60% reduction in escalation resolution time  
-- 30% reduction in reporting turnaround time through Power BI automation  
-- 20% improvement in customer satisfaction scores  
-- 25% reduction in operational discrepancies through process optimization  
-
----
-
-## Let’s Connect
-
-If you're interested in collaborating on customer experience strategy, analytics projects, or operational excellence initiatives, feel free to reach out through the Contact page.
